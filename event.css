@@ -306,6 +306,3 @@ select{
 select:focus{
     outline: none;
 }
-.small-container{
-    margin-top: -400px;
-}
